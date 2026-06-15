@@ -1,5 +1,5 @@
-from fitur_tambah import menu_tambah
-from fitur_aksi import menu_hapus, menu_tampil
+from menu_tambah import menu_tambah
+from manajemen_koleksi import menu_hapus, menu_tampil
 
 class Perpustakaan:
     def __init__(self):
